@@ -1,0 +1,2 @@
+# DeferredAtomicSwapWithoutCounterparty
+Deferred atomic swaps protocol without counterparty
