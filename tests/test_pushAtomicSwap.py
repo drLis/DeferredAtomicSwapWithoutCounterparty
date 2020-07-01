@@ -1,5 +1,5 @@
 import pytest
 import brownie
 
-def test_add(dex, accounts):
+def test_pushAtomicSwap(dex, accounts):
 	assert True
